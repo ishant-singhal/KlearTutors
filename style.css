@@ -1,0 +1,69 @@
+body{
+    background-color: white;
+}
+div {
+   width: 300px;
+   padding: 20px;
+   position: absolute;
+   left: 2420px;   
+   bottom: 1240px;
+   font-size: 20px;
+ }
+ .header{
+    background-color: #FF6B6B;
+    width: 100%;
+    height:150px;
+    position: absolute;
+    left: 0px;
+ }
+ .title{
+    font-size: 35px;
+    position: absolute;
+    left: 0px;
+    bottom: 1235px;
+ }
+ .annoucer{
+    background-color: #4ecdc4;
+    width: 100%;
+    height:619px;
+    position: absolute;
+    left: 5px;
+    top: 69px;
+ }
+ .slogan{
+    font-size: 50px;
+    position: absolute;
+    top:200px;
+    left:300px;
+ }
+ .description{
+    font-size: 30px;
+    position: absolute;
+    top:250px;
+    left:700px;
+ }
+ .footer{
+    background-color: #4ecdc4;
+    width: 100%;
+    height:35px;
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+ }
+ .namefooter{
+    font-size: 35px;
+    position: absolute;
+    left: 10px;
+    bottom: 0px;
+ }
+ .contact{
+   position: absolute;
+    left: 2400px;
+    top: 1210px;
+ }
+ .courses{
+   font-size: 45px;
+   position: absolute;
+   left: 50px;
+   top: 750px;
+ }
